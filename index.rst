@@ -12,6 +12,15 @@
 Coopérative d'informatique durable
 ----------------------------------
 
+.. toctree::
+   :maxdepth: 2
+
+   introduction
+   philosophie
+   services
+   plan-affaires
+   annexes
+
 .. pull-quote:: 
 
   **Harnacher la puissance collective**
