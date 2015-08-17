@@ -24,7 +24,6 @@ Coopérative d'informatique durable
 :Date: |date| à |time|
 
 .. toctree::
-   :maxdepth: 1
 
    introduction
    philosophie
