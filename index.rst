@@ -7,14 +7,6 @@
     :DC.creator: Coopérative d'informatique durable
     :DC.language: fr
    
-.. toctree::
-
-    introduction
-    philosophie
-    services
-    plan-affaires
-    annexes
-
 
 ----------------------------------
 Coopérative d'informatique durable
