@@ -19,12 +19,7 @@ Coopérative d'informatique durable
 
   **Contribuer au bien commun**
 
-.. sidebar:: Licence
-   
-   .. image:: _static/CC-BY-SA-4-0.png
-
 :Auteur: Yves Moisan
-:Contact: ymoisan@videotron.ca
 :Version: |release|
 :Date: |date| à |time|
 
