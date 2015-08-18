@@ -1,1 +1,1 @@
-Bla bla introduction
+../docs/introduction.rst
