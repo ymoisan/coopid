@@ -4,8 +4,9 @@
 .. |time| date:: %H:%M
 
 .. meta::
-   :DC.creator: Coopérative d'informatique durable
-   :DC.language: fr
+    :DC.creator: Coopérative d'informatique durable
+    :DC.language: fr
+   
 
 ----------------------------------
 Coopérative d'informatique durable
@@ -19,22 +20,17 @@ Coopérative d'informatique durable
 
   **Contribuer au bien commun**
 
-.. sidebar:: Licence
-   
-   .. image:: _static/CC-BY-SA-4-0.png
-
 :Auteur: Yves Moisan
-:Contact: ymoisan@videotron.ca
 :Version: |release|
 :Date: |date| à |time|
 
+Le présent document est publié par la Coopérative d'informatique durable suivant les conditions de la licence `Creative Commons - Partage à l'identique 4.0 International <http://creativecommons.org/licenses/by-sa/4.0/>`_.
+
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    introduction
    philosophie
    services
    plan-affaires
    annexes
-
-Le présent document est publié par la Coopérative d'informatique durable suivant les conditions de la licence `Creative Commons - Partage à l'identique 4.0 International <http://creativecommons.org/licenses/by-sa/4.0/>`_.
